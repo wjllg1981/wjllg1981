@@ -18,4 +18,4 @@ Vpn机场是2024年主流的海外翻墙上网方式，采用Shadowsocks、V2ray
 
 https://daxuns.top/#/register?code=gzsT09FY
 
- 购买并使用，新注册用户专享36小时10GB试用套餐，并配有详细操作流程。
+ 注册并使用，新注册用户专享36小时10GB试用套餐，并配有详细操作流程。
